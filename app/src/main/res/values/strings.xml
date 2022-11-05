@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tabs</string>
+    <string name="tab1text">Вкладка 1</string>
+    <string name="tab2text">Вкладка 2</string>
+    <string name="tab3text">Вкладка 3</string>
+    <string name="tab4text">Клинтухова</string>
+</resources>
